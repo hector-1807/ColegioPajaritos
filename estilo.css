@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Sigmar+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Sigmar+One&family=Tajawal:wght@200&display=swap');
+
+
+body{
+	background: #F3F4F6 ;
+}
+nav{
+
+	background: #A78BFA;
+	font-family: 'Sigmar One';
+	font-size: 30px;
+	
+}
+.card{
+	
+	font-family: 'Shadows Into Light';
+	background: #FF1414 ;
+	color: #000000
+	
+}
+.btn1{
+
+	font-family: 'Shadows Into Light';
+	margin: 50px;
+	background: #000000;
+
+}
+footer{
+	padding: 20px;
+	text-align: center;
+	font-family: 'Lobster';
+	background: #BBF7D0;
+	font-size: 20px;
+	overflow: hidden;
+
+}
+h1{
+	font-family: "Sigmar One";
+	color:#374151;
+	font-size: 30px;
+
+}
+h2{
+	font-family: "Sigmar One";
+	color:#000000;
+
+}
+.letra{
+	text-align: center;
+	font-family: 'Shadows Into Light';
+	font-size: 25px;
+}
+h4{
+	font-size: 15px;
+	text-align: justify;
+	font-family: "Sigmar One";
+	color: #000000;
+}
+h5{
+	font-size: 25px;
+	text-align: center;
+	font-family: "Sigmar One";
+	color: #4ADE80;
+}
+
+.form-group{
+	color: #000000;
+	font-family: 'Tajawal';
+}
+a{
+	color: #374151;
+}
+.parent{
+	min-height: 200px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	gap
+}
+
+.video1{
+
+	border-radius: 5%;
+}
+
+.fondo{
+background:#BBF7D0;
+font-color: #4ADE80;
+}
+button{
+	font-family: "Sigmar One";
+	background: #878080;
+}
+.letra1{
+		font-family: "Sigmar One";
+	
+
+}
+h6{
+	background: #A78BFA;
+	font-size: 35px;
+}
+
+header{
+	font-family: "Sigmar One";
+	color:#374151;
+	font-size: 35px;
+	background: #A78BFA;
+	text-align: center;
+}
+.btn3 {
+	width: 100%;
+	padding: 10px;
+	background-color: #A78BFA;
+	color: 	#374151;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+}
+.login-container {
+	width: 300px;
+	padding: 20px;
+	border-radius: 8px;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+}
